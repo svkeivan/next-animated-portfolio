@@ -20,6 +20,7 @@ const Homepage = () => {
             src={HeroImage}
             alt='hero'
             priority
+            fill={true}
             className='object-contain'
           />
         </div>
